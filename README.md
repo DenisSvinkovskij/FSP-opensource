@@ -38,5 +38,5 @@ Then Configure SHA-1 certificate and download google-services.json in project se
 2. Create secret key with scopes DOWNLOAD:READ, MAP:READ, OFFLINE:READ
 3. Add secret download token in /android/gradle.properties file
 
-Run - flutter pub get
-Run - flutter run
+### Run - flutter pub get
+### Run - flutter run
