@@ -6,7 +6,7 @@ A new Flutter project.
 
 #### Firebase base configuration
 1. Add Firebase to your existing Google Cloud project:
-    a. Log in to the Firebase console, then click Add project.
+    a. Log in to the Firebase console, then click Add project./n
     b. Select your existing Google Cloud project from the dropdown menu, then click Continue.
     c. (Optional) Enable Google Analytics for your project, then follow the prompts to select or create a Google Analytics account.
     d. Click Add Firebase.
