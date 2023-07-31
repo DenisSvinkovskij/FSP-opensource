@@ -36,7 +36,7 @@ Then Configure SHA-1 certificate and download google-services.json in project se
 #### Mapbox settings
 1. Add your public key in lib/constants/map.dart
 2. Create secret key with scopes DOWNLOAD:READ, MAP:READ, OFFLINE:READ
-3. Add secret download token in /android/gradle.properties file
+3. Add secret download token in /android/gradle.properties file, field MAPBOX_DOWNLOADS_TOKEN
 
 ### Run - flutter pub get
 ### Run - flutter run
