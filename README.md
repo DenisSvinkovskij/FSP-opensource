@@ -31,7 +31,7 @@ Then Configure SHA-1 certificate and download google-services.json in project se
 
 ##### Enable firestore in you app
 ##### In cloud console enable service - Google Cloud Firestore API
-##### replace all "com.example.find_safe_places" to your own unique Application ID you can find it in your firebase app settings https://console.firebase.google.com/project/{YOUR_PROJECT_ID}/settings/general 
+##### replace all "com.example.find_safe_places" to your own unique Application ID, you can find it in your firebase app settings https://console.firebase.google.com/project/{YOUR_PROJECT_ID}/settings/general 
 
 #### Mapbox settings
 1. Add your public key in lib/constants/map.dart
